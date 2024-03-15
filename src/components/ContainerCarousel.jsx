@@ -1,7 +1,6 @@
 import { Container } from "react-bootstrap";
 import HeaderNetflix from "./HeaderNetflix";
 import CarouselNetflix from "./CarouselNetflix";
-import FooterNetflix from "./FooterNetflix";
 
 const ContainerCarousel = () => {
   return (
@@ -9,12 +8,11 @@ const ContainerCarousel = () => {
       <Container fluid className="px-4">
         <HeaderNetflix></HeaderNetflix>
 
-        <CarouselNetflix movie="avengers"></CarouselNetflix>
+        <CarouselNetflix movie="avengers" titleSection="Trending Now"></CarouselNetflix>
 
-        <CarouselNetflix movie="resident%20evil"></CarouselNetflix>
+        <CarouselNetflix movie="resident%20evil" titleSection="Watch it Again"></CarouselNetflix>
 
-        <CarouselNetflix movie="fast%20and%20furious"></CarouselNetflix>
-        <FooterNetflix></FooterNetflix>
+        <CarouselNetflix movie="fast%20and%20furious" titleSection="New Releases"></CarouselNetflix>
       </Container>
     </>
   );
