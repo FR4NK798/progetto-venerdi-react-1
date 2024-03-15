@@ -12,7 +12,7 @@ const ContainerCarousel = () => {
 
         <CarouselNetflix movie="resident%20evil" titleSection="Watch it Again"></CarouselNetflix>
 
-        <CarouselNetflix movie="donnie%20darko" titleSection="New Releases"></CarouselNetflix>
+        <CarouselNetflix movie="transformers" titleSection="New Releases"></CarouselNetflix>
       </Container>
     </>
   );
