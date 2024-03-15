@@ -10,7 +10,7 @@ const HeaderNetflix = () => {
           {/*  */}
 
           <Dropdown role="group">
-            <div class="dropdown ms-4 mt-1">
+            <div className="dropdown ms-4 mt-1">
               <Dropdown.Toggle
                 id="dropdown-basic"
                 className="btn btn-secondary btn-sm dropdown-toggle rounded-0"
