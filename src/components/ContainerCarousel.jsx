@@ -8,6 +8,7 @@ const ContainerCarousel = () => {
     <>
       <Container fluid className="px-4">
         <HeaderNetflix></HeaderNetflix>
+
         <CarouselNetflix movie="avengers"></CarouselNetflix>
 
         <CarouselNetflix movie="resident%20evil"></CarouselNetflix>
