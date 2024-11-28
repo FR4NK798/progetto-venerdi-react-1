@@ -1,6 +1,6 @@
 # Copia Netfix con BootStrap
 
-Reaizzazione della copia della Homepage di Netflix data da Mockup, tramite l'uso di Bootstrap e React
+Realizzazione della copia della Homepage di Netflix data da Mockup, tramite l'uso di Bootstrap e React
 
 <img width="1280" alt="Schermata 2024-11-28 alle 22 36 06" src="https://github.com/user-attachments/assets/4926cd02-82a6-4af7-a2aa-a5fdbb29f758">
 
